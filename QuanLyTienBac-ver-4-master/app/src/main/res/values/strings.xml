@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="item_name">Mô tả</string>
+    <string name="item_date">Ngày</string>
+    <string name="item_price">Giá</string>
+    <string name="item_add">Thêm</string>
+    <string name="item_update">Cập nhật</string>
+    <string name="item_cancel">Hủy</string>
+    <string name="item_pricesum">Tổng chi tiêu</string>
+    <string name="app_name_add">Thêm chi tiêu</string>
+    <string name="app_name_about">Về chúng tôi</string>
+    <string name="version_app">version 4.2.1</string>
+    <string name="name_about_1">Nghiêm Hồng Khang</string>
+    <string name="name_about_2">Trương Minh Thảo</string>
+    <string name="name_about_3">Nguyễn Thị Kiều Thi</string>
+    <string name="name_about_4">Những người thực hiện</string>
+    <string name="idea">Mẹo: Chọn vào ngày, ấn chọn thêm lần nữa để mở lịch chọn ngày</string>
+</resources>
